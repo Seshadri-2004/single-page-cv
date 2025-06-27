@@ -8,7 +8,10 @@ This is a **single-page CV (resume) website** created using only HTML. It includ
 ---
 
 ##  File Structure
-
+cv-website/
+│
+├── index.html # The single CV/resume page
+└── README.md # This file
 
 ---
 
